@@ -1,0 +1,7 @@
+This is my first django app
+
+I am building it to learn how to use django and to build a tool to help me learn Mandarin Chinese
+
+The app is a sentence builder, the idea is to create a "mad libs" style application that allows you to add words and tag them. You will then be able to create sentences that include words in specific positions along with variable words that pull a random word with a specifc tag.
+
+To start I will just have a private environment for each user to do this in, and then add functionality later to share word lists and sentences between users.
